@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(35, 19, 30);
+}
+
+.normalTitle {
+    text-align: center;
+    color: white;
+}
+
+.links {
+    text-align: center;
+}
+
+a:link {
+    color: aqua;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+a:visited {
+    color: aqua;
+}
+
+a:active {
+    color: blueviolet;
+}
